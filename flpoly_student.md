@@ -4,24 +4,26 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Computer Info Techonology and Applications
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
+- Calc 1
 
-- Course 4
+- Cloud Infrastructure and Services
+
+- Concepts and Methods for Engineering and Computer Science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video Games
 
-- Thing 2
+- Manga
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- https://en.wikipedia.org/wiki/Five_Nights_at_Freddy%27s
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/28
